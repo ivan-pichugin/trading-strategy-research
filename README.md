@@ -2,7 +2,7 @@
 
 **Tech stack:** SQL (PostgreSQL)  
 **Domain:** Quantitative Trading / Strategy Research  
-
+[![Trading Strategy Dashboard](/dashboard.png)](/dashboard.png)
 ---
 
 ## 1. Project Overview
