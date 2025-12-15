@@ -47,11 +47,7 @@ Several issues were identified and resolved during the data preparation stage.
 
 In the original datasets, the `entry_time` and `exit_time` columns were swapped, which could lead to incorrect trade duration calculations.
 
-To improve clarity and ensure correctness, the columns were renamed:
-
-```sql
-ALTER TABLE "1R"
-RENAME COLUMN entry_time TO exit_tm;
+To improve clarity and ensure correctness, the columns were renamed.
 
 ### 4.2 Trade Duration Validation
 
